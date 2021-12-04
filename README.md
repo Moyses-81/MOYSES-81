@@ -34,6 +34,8 @@
   <img align="center" alt="moyses-github1" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
 
 <img src="https://img.icons8.com/color/50/000000/github--v1.png"/>
+
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
  
 
 
