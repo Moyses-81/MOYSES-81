@@ -11,7 +11,7 @@
 <!--- ICONES PRINCIPAIS - 1ª POSIÇÃO -->
 ## Atualmente estou Focado nos Estudos⤵
              
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
 <img align="center" alt="moyses-html5" height="60" width="60" src="https://img.icons8.com/color/60/000000/html-5--v1.png"/>
 <img align="center" alt="moyses-CSS3" height="60" width="60" src="https://img.icons8.com/color/48/000000/css3.png"/>
 <img align="center" alt="moyses-CSS3" height="60" width="60" src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
@@ -20,17 +20,28 @@
 </div>
 
 #
-
-<div style="display: inline_block"><br>
+<!---- ICONES SECUNDÁRIOS - 2ª POSIÇÃO --->
+<div style="display: inline_block">
 <img align="center" alt="moyses-Git" height="50" width="50" src="https://img.icons8.com/color/48/000000/git.png"/>
 <img align="center" alt="moyses-GitHub" height="50" width="50" src="https://img.icons8.com/color/60/000000/github--v1.png"/>
-<img align="center" alt="moyses-GitHub" height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
+<img align="center" alt="moyses-Figma" height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
 
 #
   
-  
-  
-  <div style="display: inline_block">
+  <!---- ICONES NOÇÕES BÁSICAS - 3ª POSIÇÃO --->
+  ## Nocões básicas⤵
+<div style="display: inline_block">
+<img align="center" alt="moyses-Affinity" height="50" width="50" src="https://img.icons8.com/fluency/48/000000/affinity-designer.png"/>
+<img align="center" alt="moyses-Figma" height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
+<img align="center" alt="moyses-TRELLO" height="50" width="50" src="https://img.icons8.com/color/48/000000/trello.png"/>
+<img align="center" alt="moyses-LARONGON" height="50" width="50" src="https://progsoft.net/images/laragon-icon-6ba1779098fd909dbfd41617e35b0e4188981367.png"/>
+<img align="center" alt="moyses-WORDPRESS" height="60" width="60" src="https://img.icons8.com/color/48/000000/wordpress.png"/>
+
+
+
+
+
+ 
   
 
 
