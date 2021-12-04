@@ -38,7 +38,7 @@
 <img align="center" alt="moyses-WORDPRESS" height="60" width="60" src="https://img.icons8.com/color/48/000000/wordpress.png"/>
 
 
-<img align="center" alt="moyses-WORDPRESS" height="200" width="200" src="https://octodex.github.com/images/NUX_Octodex.gif"/>
+<img align="center" alt="moyses-WORDPRESS" height="100" width="100" src="https://octodex.github.com/images/NUX_Octodex.gif"/>
 
  
 
