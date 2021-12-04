@@ -23,8 +23,7 @@
 <!---- ICONES SECUNDÁRIOS - 2ª POSIÇÃO --->
 <div style="display: inline_block">
 <img align="center" alt="moyses-Git" height="50" width="50" src="https://img.icons8.com/color/48/000000/git.png"/>
- <img align="center" alt="moyses-GITHUB" height="60" width="60" src="https://cdn-user-icons.flaticon.com/22658/22658376/1638659083044.svg?token=exp=1638659985~hmac=253fd503fa26623447b720cc5e3238c8"/>
-<img align="center" alt="moyses-GitHub" height="60" width="60" src="https://img.icons8.com/ios-filled/50/000000/github.png"/>
+<img align="center" alt="moyses-GITHUB" height="60" width="60" src="https://cdn-user-icons.flaticon.com/22658/22658376/1638659083044.svg?token=exp=1638659985~hmac=253fd503fa26623447b720cc5e3238c8"/>
 <img align="center" alt="moyses-Figma" height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
 
 #
@@ -46,15 +45,15 @@
 
 
 
-
-
+<img align="center" alt="moyses-GitHub" height="60" width="60" src="https://ih1.redbubble.net/image.2121331296.5128/st,small,845x845-pad,1000x1000,f8f8f8.jpg"/>
 
 
 
  </div>
+
 #
 
-  <div align="center"> 
+ <div style="display: inline_block">
  
   <a href="https://www.instagram.com/lucasvieira216/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:lvieira216@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
