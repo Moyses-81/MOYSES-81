@@ -23,7 +23,7 @@
 <!---- ICONES SECUNDÁRIOS - 2ª POSIÇÃO --->
 <div style="display: inline_block">
 <img align="center" alt="moyses-Git" height="50" width="50" src="https://img.icons8.com/color/48/000000/git.png"/>
-<img align="center" alt="moyses-GitHub" height="50" width="50" src="https://img.icons8.com/ios-filled/48/000000/github.png"/>
+<img align="center" alt="moyses-GitHub" height="60" width="60" src="https://img.icons8.com/ios-filled/50/000000/github.png"/>
 <img align="center" alt="moyses-Figma" height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
 
 #
