@@ -23,6 +23,7 @@
 <!---- ICONES SECUNDÁRIOS - 2ª POSIÇÃO --->
 <div style="display: inline_block">
 <img align="center" alt="moyses-Git" height="50" width="50" src="https://img.icons8.com/color/48/000000/git.png"/>
+ <img align="center" alt="moyses-GITHUB" height="60" width="60" src="https://cdn-user-icons.flaticon.com/22658/22658376/1638659083044.svg?token=exp=1638659985~hmac=253fd503fa26623447b720cc5e3238c8"/>
 <img align="center" alt="moyses-GitHub" height="60" width="60" src="https://img.icons8.com/ios-filled/50/000000/github.png"/>
 <img align="center" alt="moyses-Figma" height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
 
@@ -40,7 +41,6 @@
 
 <img align="center" alt="moyses-GitHubDesktop" height="60" width="60" src="https://cdn-user-icons.flaticon.com/22658/22658376/1638658877428.svg?token=exp=1638659792~hmac=42054b1eac57632b75af14e875502ba1"/>
 
- <img align="center" alt="moyses-GitHubDesktop" height="60" width="60" src="https://cdn-user-icons.flaticon.com/22658/22658376/1638659083044.svg?token=exp=1638659985~hmac=253fd503fa26623447b720cc5e3238c8"/>
  
 
 
