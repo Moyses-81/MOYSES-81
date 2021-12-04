@@ -38,14 +38,26 @@
 <img align="center" alt="moyses-WORDPRESS" height="60" width="60" src="https://img.icons8.com/color/48/000000/wordpress.png"/>
 
 
-<img align="center" alt="moyses-GitHubDesktop" height="60" width="60" src="https://cdn-user-icons.flaticon.com/22658/22658376/1638658877428.svg?token=exp=1638659792~hmac=42054b1eac57632b75af14e875502ba1"/>
+
 
  
 
 
 
 
-<img align="center" alt="moyses-GitHub" height="100" width="100" src="https://ih1.redbubble.net/image.2121331296.5128/st,small,845x845-pad,1000x1000,f8f8f8.jpg"/>
+
+
+<img align="center" alt="moyses-GitHub" height="100" width="100" src="https://octodex.github.com/images/poptocat.png"/>
+
+
+
+
+
+
+
+
+
+
 
 
 
