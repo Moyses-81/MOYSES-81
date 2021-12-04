@@ -8,38 +8,32 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moyses-81&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
-
-
+<!--- ICONES PRINCIPAIS - 1ª POSIÇÃO -->
+             
 <div style="display: inline_block"><br>
- 
- <img align="center" alt="Moyses-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <img align="center" alt="moyses-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="Moyses-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="moyses-Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
- <img align="center" alt="moyses-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
- <img align="center" alt="moyses-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
- 
- </div>
-
-#
-  <div style="display: inline_block">
-  
-  
-
-  
-  
-  <img align="center" alt="moyses-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="moyses-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img align="center" alt="moyses-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img align="center" alt="moyses-github1" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
-
-
 <img align="center" alt="moyses-html5" height="60" width="60" src="https://img.icons8.com/color/60/000000/html-5--v1.png"/>
 <img align="center" alt="moyses-CSS3" height="60" width="60" src="https://img.icons8.com/color/48/000000/css3.png"/>
 <img align="center" alt="moyses-CSS3" height="60" width="60" src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
-<img align="center" alt="moyses-GitHub" height="50" width="50" src="https://img.icons8.com/color/60/000000/github--v1.png"/>
+<img align="center" alt="moyses-Sass" height="50" width="50" src="https://img.icons8.com/color/48/000000/sass.png"/>
+<img align="center" alt="moyses-Bootstrap" height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+</div>
 
-<img align="center" alt="moyses-GitHub" height="50" width="50" src=
+#
+
+<div style="display: inline_block"><br>
+<img align="center" alt="moyses-Git" height="50" width="50" src="https://img.icons8.com/color/48/000000/git.png"/>
+<img align="center" alt="moyses-GitHub" height="50" width="50" src="https://img.icons8.com/color/60/000000/github--v1.png"/>
+<img align="center" alt="moyses-GitHub" height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
+
+#
+  
+  
+  
+  <div style="display: inline_block">
+  
+
+
+
 
 
 
