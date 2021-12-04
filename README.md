@@ -38,10 +38,9 @@
 <img align="center" alt="moyses-WORDPRESS" height="60" width="60" src="https://img.icons8.com/color/48/000000/wordpress.png"/>
 
 
+<img align="center" alt="moyses-GitHubDesktop" height="60" width="60" src="https://cdn-user-icons.flaticon.com/22658/22658376/1638658877428.svg?token=exp=1638659792~hmac=42054b1eac57632b75af14e875502ba1"/>
 
-
-
- 
+ <img align="center" alt="moyses-GitHubDesktop" height="60" width="60" src="https://cdn-user-icons.flaticon.com/22658/22658376/1638659083044.svg?token=exp=1638659985~hmac=253fd503fa26623447b720cc5e3238c8"/>
  
 
 
