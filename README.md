@@ -36,9 +36,9 @@
 <img align="center" alt="moyses-TRELLO" height="50" width="50" src="https://img.icons8.com/color/48/000000/trello.png"/>
 <img align="center" alt="moyses-LARONGON" height="50" width="50" src="https://progsoft.net/images/laragon-icon-6ba1779098fd909dbfd41617e35b0e4188981367.png"/>
 <img align="center" alt="moyses-WORDPRESS" height="60" width="60" src="https://img.icons8.com/color/48/000000/wordpress.png"/>
+<img align="center" alt="moyses-WORDPRESS" height="60" width="60" src="https://recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/000/007/411/resized/github_jobs_logo_480.png?1515454120"/>
 
 
-<img align="center" alt="moyses-WORDPRESS" height="200" width="200" src="https://octodex.github.com/images/poptocat_v2.png"/>
 
  
 
@@ -46,8 +46,8 @@
 
 
 
-
 <img align="center" alt="moyses-GitHub" height="100" width="100" src="https://octodex.github.com/images/poptocat.png"/>
+
 
 
 
