@@ -9,6 +9,7 @@
 </div>
 
 <!--- ICONES PRINCIPAIS - 1ª POSIÇÃO -->
+## Atualmente estou Focado nos Estudos⤵
              
 <div style="display: inline_block"><br>
 <img align="center" alt="moyses-html5" height="60" width="60" src="https://img.icons8.com/color/60/000000/html-5--v1.png"/>
