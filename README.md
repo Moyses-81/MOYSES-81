@@ -45,7 +45,7 @@
 
 
 
-<img align="center" alt="moyses-GitHub" height="60" width="60" src="https://ih1.redbubble.net/image.2121331296.5128/st,small,845x845-pad,1000x1000,f8f8f8.jpg"/>
+<img align="center" alt="moyses-GitHub" height="100" width="100" src="https://ih1.redbubble.net/image.2121331296.5128/st,small,845x845-pad,1000x1000,f8f8f8.jpg"/>
 
 
 
