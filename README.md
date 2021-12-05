@@ -1,15 +1,16 @@
 ## Olá *!*, Meu nome é _Moysés Magalhães_.
+
+### Seja Bem Vindo(a) ao Meu _GitHub_ *!!* 🎇🎆🏆
 <img src="https://img.icons8.com/emoji/48/000000/man-technologyst.png"/>
 
-### Seja Bem Vindo (a) ao Meu _GitHub_ *!!* 
 #
 <div align="center">
   <a href="https://github.com/Moyses-81">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moyses-81&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moyses-81&layout=compact&langs_count=7&theme=algolia"/>
 </div>
-
 <!--- ICONES PRINCIPAIS - 1ª POSIÇÃO -->
+
 ## Atualmente estou Focado nos Estudos⤵
              
 <div style="display: inline_block">
