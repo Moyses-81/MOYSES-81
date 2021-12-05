@@ -1,7 +1,8 @@
 ## Olá *!*, Meu nome é _Moysés Magalhães_.
-### Seja Bem Vindo (a) ao Meu _GitHub_ *!!* 💻
-##
+<img src="https://img.icons8.com/emoji/48/000000/man-technologyst.png"/>
 
+### Seja Bem Vindo (a) ao Meu _GitHub_ *!!* 
+#
 <div align="center">
   <a href="https://github.com/Moyses-81">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moyses-81&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -24,11 +25,7 @@
 <div style="display: inline_block">
 <img align="center" alt="moyses-Git" height="70" width="70" src="https://img.icons8.com/color/48/000000/git.png"/>
 <img align="center" alt="moyses-GitHubDesktop" height="65" width="65" src="https://desktop.github.com/images/desktop-icon.svg"/>
-
-
-<img align="center" alt="moyses-GitHubDesktop" height="80" width="80" src="https://image.freepik.com/vetores-gratis/codigo-de-escrita-do-engenheiro-programador-profissional_3446-693.jpg"/>
-
-
+<img align="center" alt="moyses-GitHubDesktop" height="100" width="100" src="https://alfred.dailyweb.pl/wp-content/uploads/2019/01/github.jpg"/>
 
 
 
