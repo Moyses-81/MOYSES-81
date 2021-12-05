@@ -15,8 +15,8 @@
 <img align="center" alt="moyses-html5" height="60" width="60" src="https://img.icons8.com/color/60/000000/html-5--v1.png"/>
 <img align="center" alt="moyses-CSS3" height="60" width="60" src="https://img.icons8.com/color/48/000000/css3.png"/>
 <img align="center" alt="moyses-JavaScript" height="60" width="60" src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
-<img align="center" alt="moyses-Sass" height="50" width="50" src="https://img.icons8.com/color/48/000000/sass.png"/>
-<img align="center" alt="moyses-Bootstrap" height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+<img align="center" alt="moyses-Sass" height="60" width="60" src="https://img.icons8.com/color/48/000000/sass.png"/>
+<img align="center" alt="moyses-Bootstrap" height="60" width="60" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
 </div>
 
 #
