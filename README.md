@@ -25,7 +25,7 @@
 <div style="display: inline_block">
 <img align="center" alt="moyses-Git" height="70" width="70" src="https://img.icons8.com/color/48/000000/git.png"/>
 <img align="center" alt="moyses-GitHubDesktop" height="65" width="65" src="https://desktop.github.com/images/desktop-icon.svg"/>
-<img align="center" alt="moyses-GitHubDesktop" height="100" width="100" src="https://alfred.dailyweb.pl/wp-content/uploads/2019/01/github.jpg"/>
+<img align="center" alt="moyses-GitHubDesktop" height="110" width="110" src="https://alfred.dailyweb.pl/wp-content/uploads/2019/01/github.jpg"/>
 
 
 
