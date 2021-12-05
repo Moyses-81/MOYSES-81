@@ -43,7 +43,7 @@
   <img align="center" alt="moyses-LARONGON" height="50" width="50" src="https://progsoft.net/images/laragon-icon-6ba1779098fd909dbfd41617e35b0e4188981367.png"/>
 </div>
 
-###### 1- *AFFINITY DESIGNER* / 2- *FIGMA* / 3- *TRELLO* / 4- *WORDPRESS* / 5- *LARAGON* *******(Servidor Local)******* 
+###### 1- *AFFINITY - DESIGNER* / 2- *FIGMA* / 3- *TRELLO* / 4- *WORDPRESS* / 5- *LARAGON* *******(Servidor Local)******* 
 # 
 <!--- ICONES DE REDE SOCIAL - 4ª POSIÇÃO --->
 ## Meus Contatos⤵
