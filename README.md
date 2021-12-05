@@ -48,4 +48,4 @@
   <a href="https://www.linkedin.com/in/moysesmagalhaes-devfrontend/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
 
-<img align="center" alt="moyses-LARONGON" height="200" width="800" src="https://notesfromachair.files.wordpress.com/2018/07/wellinformedgloriousbedlingtonterrier-size_restricted.gif?w=585"/>
+<img align="center" alt="moyses-LARONGON" height="250" width="800" src="https://notesfromachair.files.wordpress.com/2018/07/wellinformedgloriousbedlingtonterrier-size_restricted.gif?w=585"/>
