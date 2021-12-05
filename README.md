@@ -26,7 +26,7 @@
 <img align="center" alt="moyses-GitHubDesktop" height="65" width="65" src="https://desktop.github.com/images/desktop-icon.svg"/>
 
 
-<img align="center" alt="moyses-GitHubDesktop" height="80" width="80" src="https://softwareengineeringdaily.com/wp-content/uploads/2021/09/GitHub_logo.png"/>
+<img align="center" alt="moyses-GitHubDesktop" height="80" width="80" src="https://image.freepik.com/vetores-gratis/codigo-de-escrita-do-engenheiro-programador-profissional_3446-693.jpg"/>
 
 
 
