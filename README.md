@@ -45,8 +45,10 @@
 <!--- ICONES DE REDE SOCIAL - 4ª POSIÇÃO --->
 ## Meus Contatos⤵
  <div style="display: inline_block">
-  <a href = "mailto:moysesmagalhaes81@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:moysesmagalhaes81@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/moysesmagalhaes-devfrontend/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
 
 <img align="center" alt="moyses-LARONGON" height="250" width="800" src="https://notesfromachair.files.wordpress.com/2018/07/wellinformedgloriousbedlingtonterrier-size_restricted.gif?w=585"/>
+
+<img align="center" alt="moyses-LARONGON" height="20" width="80" src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg"/>
