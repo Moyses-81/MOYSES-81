@@ -52,3 +52,5 @@
 <img align="center" alt="moyses-LARONGON" height="250" width="800" src="https://notesfromachair.files.wordpress.com/2018/07/wellinformedgloriousbedlingtonterrier-size_restricted.gif?w=585"/>
 
 <img align="center" alt="moyses-LARONGON" height="20" width="80" src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg"/>
+
+<img align="center" alt="moyses-LARONGON" height="40" width="400" src="https://img.shields.io/github/followers/{username}.svg?style=social&label=Follow&maxAge=2592000"/>
