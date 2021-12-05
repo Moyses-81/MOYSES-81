@@ -40,13 +40,13 @@
 
 
 
- 
+ <img align="center" alt="moyses-WORDPRESS" height="60" width="60" src="https://i.pinimg.com/564x/90/aa/d0/90aad044eb41d8292808c6f8947fdc6a.jpg"/>
 
 
 
 
 
-<img align="center" alt="moyses-GitHub" height="100" width="100" src="https://octodex.github.com/images/poptocat.png"/>
+<img align="center" alt="moyses-GitHub" height="60" width="60" src="https://desktop.github.com/images/desktop-icon.svg"/>
 
 
 
