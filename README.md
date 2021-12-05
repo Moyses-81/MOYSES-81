@@ -22,9 +22,8 @@
 #
 <!---- ICONES SECUNDÁRIOS - 2ª POSIÇÃO --->
 <div style="display: inline_block">
-<img align="center" alt="moyses-Git" height="50" width="50" src="https://img.icons8.com/color/48/000000/git.png"/>
-<img align="center" alt="moyses-GITHUB" height="60" width="60" src="https://cdn-user-icons.flaticon.com/22658/22658376/1638659083044.svg?token=exp=1638659985~hmac=253fd503fa26623447b720cc5e3238c8"/>
-<img align="center" alt="moyses-GitHubDesktop" height="60" width="60" src="https://desktop.github.com/images/desktop-icon.svg"/>
+<img align="center" alt="moyses-Git" height="70" width="70" src="https://img.icons8.com/color/48/000000/git.png"/>
+<img align="center" alt="moyses-GitHubDesktop" height="65" width="65" src="https://desktop.github.com/images/desktop-icon.svg"/>
 
 
 #
