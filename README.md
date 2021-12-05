@@ -21,13 +21,15 @@
   <img align="center" alt="moyses-Bootstrap" height="60" width="60" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
 </div>
 
-#
+# 
 <!---- ICONES SECUNDÁRIOS - 2ª POSIÇÃO --->
 <div style="display: inline_block">
   <img align="center" alt="moyses-Git" height="70" width="70" src="https://img.icons8.com/color/48/000000/git.png"/>
   <img align="center" alt="moyses-GitHub" height="110" width="110" src="https://alfred.dailyweb.pl/wp-content/uploads/2019/01/github.jpg"/>
   <img align="center" alt="moyses-GitHubDesktop" height="65" width="65" src="https://desktop.github.com/images/desktop-icon.svg"/>
   <img align="center" alt="moyses-Vue.Js" height="70" width="70" src="https://img.icons8.com/color/48/000000/vue-js.png"/>
+
+ ###### 1- *GIT* / 2- *GITHUB* / 3- ***GITHUB DESKTOP*** / 4- *VUE.JS*
 </div>
 
 #
@@ -41,6 +43,7 @@
   <img align="center" alt="moyses-LARONGON" height="50" width="50" src="https://progsoft.net/images/laragon-icon-6ba1779098fd909dbfd41617e35b0e4188981367.png"/>
 </div>
 
+###### 1- *AFFINITY DESIGNER* / 2- *FIGMA* / 3- *TRELLO* / 4- *WORDPRESS* / 5- *LARAGON* *******(Servidor Local)******* 
 # 
 <!--- ICONES DE REDE SOCIAL - 4ª POSIÇÃO --->
 ## Meus Contatos⤵
@@ -48,9 +51,9 @@
   <a href = "mailto:moysesmagalhaes81@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/moysesmagalhaes-devfrontend/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
-
+<!--- IMAGEM ANIMADA EM GIF FINAL DA TELA --->
 <img align="center" alt="moyses-LARONGON" height="250" width="800" src="https://notesfromachair.files.wordpress.com/2018/07/wellinformedgloriousbedlingtonterrier-size_restricted.gif?w=585"/>
 
-<img align="center" alt="moyses-LARONGON" height="20" width="80" src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg"/>
+#
 
-<img align="center" alt="moyses-LARONGON" height="40" width="400" src="https://img.shields.io/github/followers/{username}.svg?style=social&label=Follow&maxAge=2592000"/>
+
